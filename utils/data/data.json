@@ -1,242 +1,217 @@
 [
-  {
-      "timestamp": "2023-02-07T00:21:28.244Z",
-      "name": "Christian Black",
-      "shortQuote": "“Mistakes are great, the more I make the smarter I get.”\n― Buckminster Fuller",
-      "photoUrl1": "https://media.licdn.com/dms/image/C4E03AQEcDJtkX43ezw/profile-displayphoto-shrink_200_200/0/1576593248628?e=1681344000&v=beta&t=QI9Wf0DMjNi0Lp8aia9dbCJJTmwE02tFQQNmpw-IHK8",
-      "githubUrl": "https://github.com/blackcl3",
-      "personalWebsite": "https://blackcl.carrd.co/",
-      "emailAddress": "blackcl3@gmail.com",
-      "shortAboutMe": "I'm a software engineer learning to be ok with not knowing the right answer the first time. In my spare time, I read, run, and hang out with my family!",
-      "linkedinUrl": "https://linkedin.com/in/christianblack/"
-  },
-  {
-      "timestamp": "2023-02-07T00:39:53.806Z",
-      "name": "Kristen Chandler",
-      "shortQuote": "\"All we have to decide is what to do with the time that is given to us.\" -J.R.R. Tolkien",
-      "photoUrl1": "https://live.staticflickr.com/65535/52674091365_6791cddd3e_b.jpg",
-      "photoUrl2": "https://live.staticflickr.com/65535/52673943359_6ff600fb13_b.jpg",
-      "githubUrl": "https://github.com/kmchandler",
-      "emailAddress": "krismchandler@gmail.com",
-      "shortAboutMe": "I’m a software engineer that recently transitioned from a career in writing and marketing. I first tried my hand at coding back in the myspace days when I wanted to customize my profile. However, it wasn’t until a family member suggested I consider it as a career that I really dug in deep and realized that I loved it. I aspire to take my creative thinking and passion for development and build a fulfilling career in this exciting field.",
-      "linkedinUrl": "https://www.linkedin.com/in/kmchandler/"
-  },
-  {
-      "timestamp": "2023-02-07T02:49:16.822Z",
-      "name": "joel mcanulty",
-      "shortQuote": "\"Those who say it can't be done are usually interrupted by others doing it\" - James Baldwin ",
-      "photoUrl1": "https://media.licdn.com/dms/image/C5603AQEYg6Ifu61T2g/profile-displayphoto-shrink_800_800/0/1660353184200?e=1681344000&v=beta&t=7M9x2Sl0KfThb2kDDpCibIkfJjBLY1frqZmiPIQXEtY",
-      "githubUrl": "https://github.com/Phantom-Farmer",
-      "personalWebsite": "https://greatgrandsun.bandcamp.com/",
-      "emailAddress": "joeljdahl@gmail.com",
-      "shortAboutMe": "Life is art and I am an abstract artist trying to work mostly in the mediums of love, music, code, and food.",
-      "linkedinUrl": "https://www.linkedin.com/in/joel-mcanulty-1597a438"
-  },
-  {
-      "timestamp": "2023-02-07T00:49:03.387Z",
-      "name": "Jeremiah King",
-      "shortQuote": "“Software and cathedrals are much the same — first we build them, then we pray.” \n--Sam Redwine",
-      "photoUrl1": "https://media.licdn.com/dms/image/C5603AQHtU3Adw5yZ2Q/profile-displayphoto-shrink_800_800/0/1656601448827?e=1681344000&v=beta&t=rKNQxVaG3q0M7IwZpyZdWpphl0xM1fdsjO6ioX1gmN8",
-      "githubUrl": "https://github.com/gitNitroTitan",
-      "emailAddress": "usaxray25@gmail.com",
-      "shortAboutMe": "I am a father of a great toddler who may outprogram me in the next year or so, and a husband to a wonderful wife who is patient beyond measure. I am an MBA graduate with 21 years in healthcare and 10 years in management. I enjoy the outdoors, working on my house, and BBQ. ",
-      "linkedinUrl": "https://www.linkedin.com/in/jeremiahkingmbadev/"
-  },
-  {
-      "timestamp": "2023-02-07T01:24:03.687Z",
-      "name": "Rochelle Rossman",
-      "shortQuote": "“The cure for boredom is curiosity. There is no cure for curiosity.” - Dorothy Parker",
-      "photoUrl1": "https://rochellerossman.dev/assets/images/image05.jpg?v=85e6ed84",
-      "githubUrl": "https://github.com/rochelle-rossman/",
-      "personalWebsite": "https://rochellerossman.dev/",
-      "emailAddress": "rochelle.rossman@gmail.com",
-      "shortAboutMe": "Eager to leverage technology for positive impact, I bring experience in teamwork, communication and exceptional customer service from my background in food service and customer service roles.",
-      "linkedinUrl": "https://www.linkedin.com/in/rochelle-rossman/"
-  },
-  {
-      "timestamp": "2023-02-07T01:44:42.550Z",
-      "name": "Jessica Morrison ",
-      "shortQuote": "Strive for Progress ",
-      "photoUrl1": "https://media.licdn.com/dms/image/C4D03AQGOB8PYlmrMpQ/profile-displayphoto-shrink_800_800/0/1643506134345?e=1681344000&v=beta&t=PuqE4DSg-B9acJJk3bqOccKbGXqB3Gdl97VP8yrc1H0",
-      "githubUrl": "https://github.com/Jess-Morrison",
-      "emailAddress": "jnicomorr@gmail.com",
-      "shortAboutMe": "Hello! My name is Jessica Morrison and I am an IT Enthusiasts, recently turned engineer, who strives to make the world a better place by solving one problem at a time! ",
-      "linkedinUrl": "https://www.linkedin.com/in/jessica-n-morrison/"
-  },
-  {
-      "timestamp": "2023-02-07T14:57:58.026Z",
-      "name": "Mitch McCullough",
-      "shortQuote": "Try to learn to let what is unfair teach you. - DFW",
-      "photoUrl1": "https://media.licdn.com/dms/image/C4D03AQGzJEiPOwp2xg/profile-displayphoto-shrink_800_800/0/1558123328976?e=1681344000&v=beta&t=7m1VCn-hfjaa-03rv0HKp2pLDUfDI7GPaDhkTfEPqyI",
-      "photoUrl2": "https://ca.slack-edge.com/T03F2SDTJ-U034AA7M03H-425ae58992d3-512",
-      "githubUrl": "https://github.com/mmccullough1997",
-      "emailAddress": "mitchmccullough1997@gmail.com",
-      "shortAboutMe": "While in college as an Industrial & Systems Engineering student, I realized that some of my most enjoyable classes were those which required a certain degree of interaction with a computer. I'd always been interested in new technology growing up, spending hours on the old PC in the family living room until someone had to drag me away. This became even more obvious as I launched into a career as an Operations Industrial Engineer for the Postal Service. I found that I was frequently prone to looking for technical solutions to 'ordinary problems' in data and software. In the end, it was only natural that I found my way to Nashville Software School, where, in familiar company, I can hone my software skills to live out the dream of improving the world one line of code at a time.",
-      "linkedinUrl": "https://www.linkedin.com/in/mitchmccullough"
-  },
-  {
-      "timestamp": "2023-02-08T00:21:23.844Z",
-      "name": "Micah \"Tots\" Stotsky",
-      "shortQuote": "When you only pay attention to your own failures, of course you’re going to put everyone else on a pedestal. You won’t notice that we’re all fucking up too.",
-      "photoUrl1": "https://media.licdn.com/dms/image/C4E03AQESsyni9lVCGA/profile-displayphoto-shrink_800_800/0/1650742192498?e=1681344000&v=beta&t=HDAc5ZCd1AZ0OBgH-4pGi0QqQMrWs8cpNzQOCpssdiU",
-      "githubUrl": "https://github.com/JustCallMeTots",
-      "emailAddress": "leowyatt09@gmail.com",
-      "shortAboutMe": "I like puzzles, games (board and video), anime, and DnD. Straight up nerd to the core.",
-      "linkedinUrl": "https://www.linkedin.com/in/micah-tots-stotsky/"
-  },
-  {
-      "timestamp": "2023-02-08T02:03:40.165Z",
-      "name": "Sariah Campopiano",
-      "shortQuote": "A smooth sea never made a skilled sailor - Franklin D Roosevelt",
-      "photoUrl1": "https://user-images.githubusercontent.com/98675776/217409562-9144fd40-37a6-4548-a81d-408389a8268c.jpg",
-      "githubUrl": "https://github.com/scamp925",
-      "emailAddress": "scampopiano925@gmail.com",
-      "shortAboutMe": "I am software engineer looking to apply my skills and talents as a full stack developer on an engineering team where I may contribute to projects and refine myself as a software engineer along the way! I have created frontend projects in JavaScript using React and Next JS by myself and as a member of a team of follow developers. I have also created full stack projects using the same frontend tech stack along with Python and Django for the backend also on my own and on a team. I have truly enjoyed my journey becoming a software engineer! I am ready to bring what I've got to the table and be a part of something great!",
-      "linkedinUrl": "https://www.linkedin.com/in/sariah-campopiano/"
-  },
-  {
-      "timestamp": "2023-02-09T23:46:11.784Z",
-      "name": "Krima Patel",
-      "shortQuote": "“Failure is the condiment that gives success its flavor.” - Truman Capote",
-      "photoUrl1": "https://media.licdn.com/dms/image/C4E03AQHUgXLdzq6aMQ/profile-displayphoto-shrink_800_800/0/1659763148314?e=1681344000&v=beta&t=Km0HSGDF6899F-zDsTKM0oZVOecLE00z4O_4R0BpuCg",
-      "githubUrl": "https://github.com/krima-patel",
-      "emailAddress": "patel.krima@hotmail.com",
-      "shortAboutMe": "I have been a healthcare worker for over six years and am making a career change into software engineering. My background has allowed me to develop the essential skillsets to transition into the tech field. After college, I was uncertain about my career path, so I continued working in healthcare with an emphasis on new technologies. Having worked with various healthcare applications and machinery has allowed me to see how computers and software programs work together to streamline workflow, resolve issues to ensure accuracy and has shown me just how big of an impact the tech field has had on healthcare. In a matter of a few years it has changed my work experience; this led me to dive into web development courses online which then brought me to Nashville Software School. At NSS, I have gotten experience in problem-solving, working in both individual and team-oriented environments, and overcoming the fear of failure, my biggest challenge. I am eager to learn, grow and maximize my potential as a software engineer. I am excited to be a part of Nashville’s growing tech community!",
-      "linkedinUrl": "https://www.linkedin.com/in/krima-patel/"
-  },
-  {
-      "timestamp": "2023-02-11T01:03:37.604Z",
-      "name": "Kukkus Nishaya Maria Raj",
-      "shortQuote": "\"The roots of our success lie in our diverse experiences and the resilience to keep pushing forward.\"  Unknown author",
-      "photoUrl1": "https://drive.google.com/file/d/1-3fHyQ2tK2ziM2XeClmOOL-hBK0EW3sC/view?usp=sharing",
-      "photoUrl2": "https://drive.google.com/file/d/1-5LlHybfBNjpMTiHVI49NBuR-ByMrf5r/view?usp=sharing",
-      "githubUrl": "https://github.com/nishayaraj",
-      "emailAddress": "nishayaraj@gmail.com",
-      "shortAboutMe": "With a background in education and healthcare, I decided to swap textbooks for code and dive into the exciting world of software engineering. My globetrotting adventures to six different countries have given me a wealth of life experiences and a fresh perspective, while my experience working with others has honed my communication and collaboration skills. All in all, I'm ready to bring my unique blend of skills and relentless work ethic to software development and have some fun while solving problems.",
-      "linkedinUrl": "https://www.linkedin.com/in/maria-raj/"
-  },
-  {
-      "timestamp": "2023-02-11T05:40:34.360Z",
-      "name": "Brett Hughes",
-      "shortQuote": "It's up to the person who's being creative to find ways to emerge and shake up the world of wealth.\n\nWayne Shorter",
-      "photoUrl1": "https://res.cloudinary.com/twofiveclimb/image/upload/v1666749003/mad-app/mqrsicc93qpvq1x0z2zg.jpg",
-      "photoUrl2": "https://res.cloudinary.com/twofiveclimb/image/upload/v1676093870/75107ea6-c12e-40bf-8004-001cf6f318e8_qkmobm.jpg",
-      "githubUrl": "https://github.com/TwoFivinClimber",
-      "personalWebsite": "bretthughes.dev",
-      "emailAddress": "twofivinclimber@gmail.com",
-      "shortAboutMe": "I am a student of life, always looking to grow my knowledge of subjects I am passionate about.  My first introduction to coding came from a friend who mentioned he was self-taught.  Shocked that you could learn the basics for free online, I began my journey immediately.  Getting laid off from an industry I was truly unhappy in was the catalyst that led me to Nashville Software School.  I value critical thinking over encyclopedic knowledge and inherit curiosity over judgment in everything I do.  My meandering career path gives me a unique perspective that I plan to utilize on my journey.                                                                                                                                                                                                             ",
-      "linkedinUrl": "https://www.linkedin.com/in/brett-hughes-developer/"
-  },
-  {
-      "timestamp": "2023-02-11T15:05:45.200Z",
-      "name": "Emily Stroud",
-      "shortQuote": "If at first you don't succeed, then dust yourself off and try again. -Aaliyah",
-      "photoUrl1": "https://drive.google.com/file/d/1GhNcD9HnU2X-LeWSO7GXSCClxJFH8V-c/view",
-      "githubUrl": "https://github.com/emilyjstroud",
-      "emailAddress": "emilystroud93@gmail.com",
-      "shortAboutMe": "Full Stack web developer student in Nashville Software School's E-19 cohort. Experience in: JavaScript, React, Python, Django, SQL, PostMan, Firebase, GitHub, VSCode and more.",
-      "linkedinUrl": "https://www.linkedin.com/in/emilyjstroud/"
-  },
-  {
-      "timestamp": "2023-02-11T15:39:17.408Z",
-      "name": "Lesley Keyes",
-      "shortQuote": "Honey, remember, the same day we plant our seeds is not the same day we eat the fruit.\n\nTabitha Brown",
-      "photoUrl1": "https://lh3.googleusercontent.com/bHjWdF6Si5vxNKtNe8iXfFxxBbAo_bSqHzB0W9TaRDHj0I0SwwiLv1m4vuFYKSLDQGJxOVUzCSt1bcefcrcVaI76pLRGXs4QD7Zfdswlzn19BBCJrwO7enoxgFXGAxyMbY5IvmhHA2DVGNzBixV_SdvlBlpOT_CORgPnt6xmiS3KcjlmSBVkf-dp6Sttise1ejHL8B9G-GCosb1gkuuZSiSszDtVWzKG8um5SU4gwpz3uhnbQ1F6Ne81NLG2Wyczx12BmaBoDiq4Tpr8DAGbhvDshXlDduNxWPDx8RQsBMGeXQNVbwl6HsXJO6tCM6fXXLz4CVmW6ajfWJqU_G6ue7q__okM9wZmHCuS8i_5wvJw5sFqKaH57u0IR1ejMU4ioMopGTAbH4jYuhIZ88FTu1V2c3CgnlE8SDc4dXTfJYAfIA_RXF2AlnqxfxrAbJGtW7WKfcRLV_MP_ZWx0d9EATzdm83Eq-Grohrgt62G2F7_e9af_ZTk4kCah7oZ25lXLfCZOElXm8DVoaRdLqYwCm7vix0SRYlckpY9mt_5Ba7o1TmfVmQi1LDO2YPPssrJAhxLLh370lzOzeInsL-v2pUFjTAwahez8m-K7YYa6pXONrJ4A5CRPTqNmpVSCm43iN8vReI1upGPEh0h7PzxBDbZQFxXwdeS669gC6I4HbLFDu-YpNtY96JOYlRwukhOcfNc4l6JAMaqOxOj6DP4jU7pG8oiBPa-rcsAP_l-bqmqMhq5rx3mdzlRAXEApPIm8w_TdxIXDarYK2C4QbwD-DdVarrqLUy48JVFWJNlEXhIGfvlb30OXvOhBweaicDwMAtNY9OW0SyckIblPIIdrLU0vYNau21peWaLf5EsA0cxLfVBYINw374ADz7Sggis5bzH0w-JD4sWLjLm_eJtKFVUOdAo5MEamMk8d-rPKHpi=w1229-h854-no?authuser=0",
-      "photoUrl2": "https://media.licdn.com/dms/image/C5603AQGGyWoRgXP4pw/profile-displayphoto-shrink_800_800/0/1636234515948?e=1681344000&v=beta&t=KfBivdjQbEdbPBqH_l0kusdNtFq42VhnB-8X5zS7Jdk",
-      "githubUrl": "https://github.com/lesleyjkeyes",
-      "emailAddress": "lesleyjkeyes@gmail.com",
-      "shortAboutMe": "I am a program manager and software engineer with a passion for bridging gaps between technical teams and non-technical stakeholders. I'm excited to leverage the technical expertise I've gained at Nashville Software School to continue to bring these groups together to build the best possible product solutions. ",
-      "linkedinUrl": "https://www.linkedin.com/in/lesley-keyes/"
-  },
-  {
-      "timestamp": "2023-02-11T17:29:40.196Z",
-      "name": "Keaton Law",
-      "shortQuote": "Don't let fear get in the way, and don't be afraid to say \"I don't know\". No question is a dumb question --Margret Hamilton",
-      "photoUrl1": "https://drive.google.com/file/d/1YJgbzJq6Z8VRPT7l9aRBVcPVE8wL5QXt/view?usp=share_link",
-      "githubUrl": "https://github.com/KLaw47",
-      "personalWebsite": "https://github.com/KLaw47",
-      "emailAddress": "keaton.c.law@gmail.com",
-      "shortAboutMe": " am a software developer with Object Oriented Programming expirience using JavaScript, React, Pyton, and Django\nPrior to beginning my jorney into software development I worked as an automotive technician, with a focus on electrical diagnoses. The logical trouble shooting has always appealed to me, and after being introduced to software engineering I recognized all of my favorite parts of my current carreer and none of my least favorite.\nThe software development world has re-ignited a passion for learning that has been the most fun i've had learning new things in almost ten years, which I hope to continue into a fufilling career in software development.",
-      "linkedinUrl": "https://www.linkedin.com/in/keatonlaw/"
-  },
-  {
-      "timestamp": "2023-02-11T18:31:48.278Z",
-      "name": "Michael Pennington",
-      "shortQuote": "Curiously enough, the only thing that went through the mind of the bowl of petunias as it fell was \"Oh no, not again\". ",
-      "photoUrl1": "https://photos.app.goo.gl/kJXD8gwxjzUdaZyCA",
-      "githubUrl": "https://github.com/PennCreative",
-      "emailAddress": "mwpennington90@gmail.com",
-      "shortAboutMe": "I'm graphic designer that is transitioning into the field of software engineering. I enjoy anything that pushes me to use my imagination and creativity. I have too many hobbies and not enough at the same time.",
-      "linkedinUrl": "https://www.linkedin.com/in/michael-w-pennington/"
-  },
-  {
-      "timestamp": "2023-02-11T18:46:42.873Z",
-      "name": "Kenneth Chittaphong",
-      "shortQuote": "\"You miss 100 percent of the shots you don't take - Wayne Gretzky\" - Michael Scott",
-      "photoUrl1": "https://i.imgur.com/Fb3oOef.png",
-      "githubUrl": "https://github.com/kennethchittaphong",
-      "emailAddress": "kennethchittaphong@gmail.com",
-      "shortAboutMe": "Started in finance, now I am trying to make it as a software engineer. Oh and I like basketball and cooking.",
-      "linkedinUrl": "https://www.linkedin.com/in/kennethchittaphong/"
-  },
-  {
-      "timestamp": "2023-02-11T18:52:18.106Z",
-      "name": "Justin Ferwerda",
-      "shortQuote": "If at first you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe",
-      "photoUrl1": "https://live.staticflickr.com/65535/52682552561_bce585530b.jpg",
-      "githubUrl": "https://github.com/Justin-Ferwerda/",
-      "emailAddress": "justin.ferwerda@gmail.com",
-      "shortAboutMe": "\nI began my journey into software engineering in 2019 while looking for supplemental work on the road as a musician. I soon realized my road-honed skills in problem solving and team building would flourish in a technical environment. I look forward to working in a collaborative atmosphere centered around growth and continued learning.",
-      "linkedinUrl": "https://www.linkedin.com/in/justinferwerda/"
-  },
-  {
-      "timestamp": "2023-02-11T19:10:11.701Z",
-      "name": "Jacob Martin",
-      "shortQuote": "\"The public sucks\" - George Carlin",
-      "photoUrl1": "https://avatars.githubusercontent.com/u/79988192?v=4",
-      "githubUrl": "https://github.com/Massacre-Saint",
-      "emailAddress": "jbm6b@mtmail.mtsu.edu",
-      "shortAboutMe": "Passionate about coffee and now about programming. ",
-      "linkedinUrl": "https://www.linkedin.com/in/massacresaint/"
-  },
-  {
-      "timestamp": "2023-02-11T19:36:51.932Z",
-      "name": "Imad Ottallah",
-      "shortQuote": "“First, solve the problem. Then, write the code.” – John Johnson\n",
-      "photoUrl1": "https://media.licdn.com/dms/image/C5603AQHhkfziyLyNCA/profile-displayphoto-shrink_800_800/0/1658170114012?e=1681344000&v=beta&t=oUN34fYUnrnakRLysUBN56GSws6TcSqv-WDMFTmXVc0",
-      "githubUrl": "https://github.com/ImadOttallah",
-      "emailAddress": "imadotta@gmail.com",
-      "shortAboutMe": "I’m starting my journey as full-stack developer thanks to Nashville Software School. Being a full-stack developer allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.\n\nI love designing systems that are light and efficient. I'm really in love with REACT, but am eager to learn so much more. I'm an avid table top role player and have written and illustrated several books.",
-      "linkedinUrl": "https://www.linkedin.com/in/imad-ottallah/"
-  },
-  {
-      "timestamp": "2023-02-12T21:57:58.365Z",
-      "name": "Patrick Burns",
-      "shortQuote": "We dreamt our sons and daughters a high wire, connecting the four corners of the earth. But the wire disappeared and left them standing on nothing but thin air. They're standing and they're not about to fall.",
-      "photoUrl1": "https://drive.google.com/file/d/10Gl8qExG1FyZmNDjhL1lw-oHycO5C2rX/view?usp=sharing",
-      "githubUrl": "https://github.com/patrick24cr",
-      "emailAddress": "burns212@gmail.com",
-      "shortAboutMe": "I like to make music, extract teeth, and tweak CSS files excessively.",
-      "linkedinUrl": "https://www.linkedin.com/in/patrick-burns-35460824a/"
-  },
-  {
-      "timestamp": "2023-02-13T21:57:24.338Z",
-      "name": "Shalane Proctor",
-      "shortQuote": "Life is either a daring adventure or nothing at all. -Helen Keller",
-      "photoUrl1": "https://media.licdn.com/dms/image/D4E03AQFZlmBcRZa84g/profile-displayphoto-shrink_800_800/0/1671577467410?e=1681948800&v=beta&t=2wzHGbueAUsmJhd3mLbbb7aqnvjFh6fEBxicmsWDobs",
-      "githubUrl": "https://github.com/shalane-proctor",
-      "emailAddress": "shalane088@gmail.com",
-      "shortAboutMe": "There is a reason the other paths I tried in life didn't work out, it's because I would find my here in engineering. Very proud of how far I've come, especially in less that a year I've dedicated myself to becoming a software engineer. Aside from my new career, I am an artist and gamer, which I find to be largely helpful in my development. I am a proud women in tech and I look forward to the future!",
-      "linkedinUrl": "https://www.linkedin.com/in/shalane-proctor/"
-  },
-  {
-      "timestamp": "2023-02-14T01:49:17.709Z",
-      "name": "Adam Steel",
-      "shortQuote": "Through all of the islands and all of the highlands\nIf we couldn't laugh we would all go insane\n- Jimmy Buffett",
-      "photoUrl1": "https://media.licdn.com/dms/image/C4D03AQFSthj_2hpUUQ/profile-displayphoto-shrink_800_800/0/1626828104241?e=1681344000&v=beta&t=NOvlqujVq2EnTbHtVjIbPQiZmxLciNVrFf7bOhisFXM",
-      "githubUrl": "https://github.com/mcgrief",
-      "emailAddress": "asteel88@gmail.com",
-      "shortAboutMe": "Here for a good time, not a long time.",
-      "linkedinUrl": "https://www.linkedin.com/in/adam-steel-0b60a389/"
-  }
-]
+      {
+        "name": "Christian Black",
+        "shortQuote": "“Mistakes are great, the more I make the smarter I get.”\n― Buckminster Fuller",
+        "photoUrl1": "https://media.licdn.com/dms/image/C4E03AQEcDJtkX43ezw/profile-displayphoto-shrink_200_200/0/1576593248628?e=1681344000&v=beta&t=QI9Wf0DMjNi0Lp8aia9dbCJJTmwE02tFQQNmpw-IHK8",
+        "githubUrl": "https://github.com/blackcl3",
+        "personalWebsite": "https://blackcl.carrd.co/",
+        "emailAddress": "blackcl3@gmail.com",
+        "shortAboutMe": "I'm a software engineer learning to be ok with not knowing the right answer the first time. In my spare time, I read, run, and hang out with my family!",
+        "linkedinUrl": "https://linkedin.com/in/christianblack/"
+      },
+      {
+        "name": "Kristen Chandler",
+        "shortQuote": "\"All we have to decide is what to do with the time that is given to us.\" -J.R.R. Tolkien",
+        "photoUrl1": "https://live.staticflickr.com/65535/52674091365_6791cddd3e_b.jpg",
+        "photoUrl2": "https://live.staticflickr.com/65535/52673943359_6ff600fb13_b.jpg",
+        "githubUrl": "https://github.com/kmchandler",
+        "emailAddress": "krismchandler@gmail.com",
+        "shortAboutMe": "I’m a software engineer that recently transitioned from a career in writing and marketing. I first tried my hand at coding back in the myspace days when I wanted to customize my profile. However, it wasn’t until a family member suggested I consider it as a career that I really dug in deep and realized that I loved it. I aspire to take my creative thinking and passion for development and build a fulfilling career in this exciting field.",
+        "linkedinUrl": "https://www.linkedin.com/in/kmchandler/"
+      },
+      {
+        "name": "Joel McAnulty",
+        "shortQuote": "\"Those who say it can't be done are usually interrupted by others doing it\" - James Baldwin ",
+        "photoUrl1": "https://media.licdn.com/dms/image/C5603AQEYg6Ifu61T2g/profile-displayphoto-shrink_800_800/0/1660353184200?e=1681344000&v=beta&t=7M9x2Sl0KfThb2kDDpCibIkfJjBLY1frqZmiPIQXEtY",
+        "githubUrl": "https://github.com/Phantom-Farmer",
+        "personalWebsite": "https://greatgrandsun.bandcamp.com/",
+        "emailAddress": "joeljdahl@gmail.com",
+        "shortAboutMe": "Life is art and I am an abstract artist trying to work mostly in the mediums of love, music, code, and food.",
+        "linkedinUrl": "https://www.linkedin.com/in/joel-mcanulty-1597a438"
+      },
+      {
+        "name": "Jeremiah King",
+        "shortQuote": "“Software and cathedrals are much the same — first we build them, then we pray.” \n--Sam Redwine",
+        "photoUrl1": "https://media.licdn.com/dms/image/C5603AQHtU3Adw5yZ2Q/profile-displayphoto-shrink_800_800/0/1656601448827?e=1681344000&v=beta&t=rKNQxVaG3q0M7IwZpyZdWpphl0xM1fdsjO6ioX1gmN8",
+        "githubUrl": "https://github.com/gitNitroTitan",
+        "emailAddress": "usaxray25@gmail.com",
+        "shortAboutMe": "I am a father of a great toddler who may outprogram me in the next year or so, and a husband to a wonderful wife who is patient beyond measure. I am an MBA graduate with 21 years in healthcare and 10 years in management. I enjoy the outdoors, working on my house, and BBQ. ",
+        "linkedinUrl": "https://www.linkedin.com/in/jeremiahkingmbadev/"
+      },
+      {
+        "name": "Rochelle Rossman",
+        "shortQuote": "“The cure for boredom is curiosity. There is no cure for curiosity.” - Dorothy Parker",
+        "photoUrl1": "https://rochellerossman.dev/assets/images/image05.jpg?v=85e6ed84",
+        "githubUrl": "https://github.com/rochelle-rossman/",
+        "personalWebsite": "https://rochellerossman.dev/",
+        "emailAddress": "rochelle.rossman@gmail.com",
+        "shortAboutMe": "Eager to leverage technology for positive impact, I bring experience in teamwork, communication and exceptional customer service from my background in food service and customer service roles.",
+        "linkedinUrl": "https://www.linkedin.com/in/rochelle-rossman/"
+      },
+      {
+        "name": "Jessica Morrison ",
+        "shortQuote": "Strive for Progress.",
+        "photoUrl1": "https://media.licdn.com/dms/image/C4D03AQGOB8PYlmrMpQ/profile-displayphoto-shrink_800_800/0/1643506134345?e=1681344000&v=beta&t=PuqE4DSg-B9acJJk3bqOccKbGXqB3Gdl97VP8yrc1H0",
+        "githubUrl": "https://github.com/Jess-Morrison",
+        "emailAddress": "jnicomorr@gmail.com",
+        "shortAboutMe": "Hello! My name is Jessica Morrison and I am an IT Enthusiasts, recently turned engineer, who strives to make the world a better place by solving one problem at a time! ",
+        "linkedinUrl": "https://www.linkedin.com/in/jessica-n-morrison/"
+      },
+      {
+        "name": "Mitch McCullough",
+        "shortQuote": "Try to learn to let what is unfair teach you. - DFW",
+        "photoUrl1": "https://media.licdn.com/dms/image/C4D03AQGzJEiPOwp2xg/profile-displayphoto-shrink_800_800/0/1558123328976?e=1681344000&v=beta&t=7m1VCn-hfjaa-03rv0HKp2pLDUfDI7GPaDhkTfEPqyI",
+        "photoUrl2": "https://ca.slack-edge.com/T03F2SDTJ-U034AA7M03H-425ae58992d3-512",
+        "githubUrl": "https://github.com/mmccullough1997",
+        "emailAddress": "mitchmccullough1997@gmail.com",
+        "shortAboutMe": "While in college as an Industrial & Systems Engineering student, I realized that some of my most enjoyable classes were those which required a certain degree of interaction with a computer. I'd always been interested in new technology growing up, spending hours on the old PC in the family living room until someone had to drag me away. This became even more obvious as I launched into a career as an Operations Industrial Engineer for the Postal Service. I found that I was frequently prone to looking for technical solutions to 'ordinary problems' in data and software. In the end, it was only natural that I found my way to Nashville Software School, where, in familiar company, I can hone my software skills to live out the dream of improving the world one line of code at a time.",
+        "linkedinUrl": "https://www.linkedin.com/in/mitchmccullough"
+      },
+      {
+        "name": "Micah \"Tots\" Stotsky",
+        "shortQuote": "When you only pay attention to your own failures, of course you’re going to put everyone else on a pedestal. You won’t notice that we’re all fucking up too.",
+        "photoUrl1": "https://media.licdn.com/dms/image/C4E03AQESsyni9lVCGA/profile-displayphoto-shrink_800_800/0/1650742192498?e=1681344000&v=beta&t=HDAc5ZCd1AZ0OBgH-4pGi0QqQMrWs8cpNzQOCpssdiU",
+        "githubUrl": "https://github.com/JustCallMeTots",
+        "emailAddress": "leowyatt09@gmail.com",
+        "shortAboutMe": "I like puzzles, games (board and video), anime, and DnD. Straight up nerd to the core.",
+        "linkedinUrl": "https://www.linkedin.com/in/micah-tots-stotsky/"
+      },
+      {
+        "name": "Sariah Campopiano",
+        "shortQuote": "A smooth sea never made a skilled sailor - Franklin D Roosevelt",
+        "photoUrl1": "https://user-images.githubusercontent.com/98675776/217409562-9144fd40-37a6-4548-a81d-408389a8268c.jpg",
+        "githubUrl": "https://github.com/scamp925",
+        "emailAddress": "scampopiano925@gmail.com",
+        "shortAboutMe": "I am software engineer looking to apply my skills and talents as a full stack developer on an engineering team where I may contribute to projects and refine myself as a software engineer along the way! I have created frontend projects in JavaScript using React and Next JS by myself and as a member of a team of follow developers. I have also created full stack projects using the same frontend tech stack along with Python and Django for the backend also on my own and on a team. I have truly enjoyed my journey becoming a software engineer! I am ready to bring what I've got to the table and be a part of something great!",
+        "linkedinUrl": "https://www.linkedin.com/in/sariah-campopiano/"
+      },
+      {
+        "name": "Krima Patel",
+        "shortQuote": "“Failure is the condiment that gives success its flavor.” - Truman Capote",
+        "photoUrl1": "https://media.licdn.com/dms/image/C4E03AQHUgXLdzq6aMQ/profile-displayphoto-shrink_800_800/0/1659763148314?e=1681344000&v=beta&t=Km0HSGDF6899F-zDsTKM0oZVOecLE00z4O_4R0BpuCg",
+        "githubUrl": "https://github.com/krima-patel",
+        "emailAddress": "patel.krima@hotmail.com",
+        "shortAboutMe": "I have been a healthcare worker for over six years and am making a career change into software engineering. My background has allowed me to develop the essential skillsets to transition into the tech field. After college, I was uncertain about my career path, so I continued working in healthcare with an emphasis on new technologies. Having worked with various healthcare applications and machinery has allowed me to see how computers and software programs work together to streamline workflow, resolve issues to ensure accuracy and has shown me just how big of an impact the tech field has had on healthcare. In a matter of a few years it has changed my work experience; this led me to dive into web development courses online which then brought me to Nashville Software School. At NSS, I have gotten experience in problem-solving, working in both individual and team-oriented environments, and overcoming the fear of failure, my biggest challenge. I am eager to learn, grow and maximize my potential as a software engineer. I am excited to be a part of Nashville’s growing tech community!",
+        "linkedinUrl": "https://www.linkedin.com/in/krima-patel/"
+      },
+      {
+        "name": "Kukkus Nishaya Maria Raj",
+        "shortQuote": "\"The roots of our success lie in our diverse experiences and the resilience to keep pushing forward.\"  Unknown author",
+        "photoUrl1": "https://avatars.githubusercontent.com/u/102449911?v=4",
+        "photoUrl2": "https://drive.google.com/file/d/1-5LlHybfBNjpMTiHVI49NBuR-ByMrf5r/view?usp=sharing",
+        "githubUrl": "https://github.com/nishayaraj",
+        "emailAddress": "nishayaraj@gmail.com",
+        "shortAboutMe": "With a background in education and healthcare, I decided to swap textbooks for code and dive into the exciting world of software engineering. My globetrotting adventures to six different countries have given me a wealth of life experiences and a fresh perspective, while my experience working with others has honed my communication and collaboration skills. All in all, I'm ready to bring my unique blend of skills and relentless work ethic to software development and have some fun while solving problems.",
+        "linkedinUrl": "https://www.linkedin.com/in/maria-raj/"
+      },
+      {
+        "name": "Brett Hughes",
+        "shortQuote": "It's up to the person who's being creative to find ways to emerge and shake up the world of wealth.\n\nWayne Shorter",
+        "photoUrl1": "https://res.cloudinary.com/twofiveclimb/image/upload/v1666749003/mad-app/mqrsicc93qpvq1x0z2zg.jpg",
+        "photoUrl2": "https://res.cloudinary.com/twofiveclimb/image/upload/v1676093870/75107ea6-c12e-40bf-8004-001cf6f318e8_qkmobm.jpg",
+        "githubUrl": "https://github.com/TwoFivinClimber",
+        "personalWebsite": "bretthughes.dev",
+        "emailAddress": "twofivinclimber@gmail.com",
+        "shortAboutMe": "I am a student of life, always looking to grow my knowledge of subjects I am passionate about.  My first introduction to coding came from a friend who mentioned he was self-taught.  Shocked that you could learn the basics for free online, I began my journey immediately.  Getting laid off from an industry I was truly unhappy in was the catalyst that led me to Nashville Software School.  I value critical thinking over encyclopedic knowledge and inherit curiosity over judgment in everything I do.  My meandering career path gives me a unique perspective that I plan to utilize on my journey.",
+        "linkedinUrl": "https://www.linkedin.com/in/brett-hughes-developer/"
+      },
+      {
+        "name": "Emily Stroud",
+        "shortQuote": "If at first you don't succeed, then dust yourself off and try again. -Aaliyah",
+        "photoUrl1": "https://avatars.githubusercontent.com/u/102272030?v=4",
+        "githubUrl": "https://github.com/emilyjstroud",
+        "emailAddress": "emilystroud93@gmail.com",
+        "shortAboutMe": "Full Stack web developer student in Nashville Software School's E-19 cohort. Experience in: JavaScript, React, Python, Django, SQL, PostMan, Firebase, GitHub, VSCode and more.",
+        "linkedinUrl": "https://www.linkedin.com/in/emilyjstroud/"
+      },
+      {
+        "name": "Lesley Keyes",
+        "shortQuote": "Honey, remember, the same day we plant our seeds is not the same day we eat the fruit.\n\nTabitha Brown",
+        "photoUrl1": "https://media.licdn.com/dms/image/C5603AQGGyWoRgXP4pw/profile-displayphoto-shrink_800_800/0/1636234515948?e=1681344000&v=beta&t=KfBivdjQbEdbPBqH_l0kusdNtFq42VhnB-8X5zS7Jdk",
+        "githubUrl": "https://github.com/lesleyjkeyes",
+        "emailAddress": "lesleyjkeyes@gmail.com",
+        "shortAboutMe": "I am a program manager and software engineer with a passion for bridging gaps between technical teams and non-technical stakeholders. I'm excited to leverage the technical expertise I've gained at Nashville Software School to continue to bring these groups together to build the best possible product solutions. ",
+        "linkedinUrl": "https://www.linkedin.com/in/lesley-keyes/"
+      },
+      {
+        "name": "Keaton Law",
+        "shortQuote": "Don't let fear get in the way, and don't be afraid to say \"I don't know\". No question is a dumb question --Margret Hamilton",
+        "photoUrl1": "https://avatars.githubusercontent.com/u/102562377?v=4",
+        "githubUrl": "https://github.com/KLaw47",
+        "emailAddress": "keaton.c.law@gmail.com",
+        "shortAboutMe": " am a software developer with Object Oriented Programming expirience using JavaScript, React, Pyton, and Django\nPrior to beginning my jorney into software development I worked as an automotive technician, with a focus on electrical diagnoses. The logical trouble shooting has always appealed to me, and after being introduced to software engineering I recognized all of my favorite parts of my current carreer and none of my least favorite.\nThe software development world has re-ignited a passion for learning that has been the most fun i've had learning new things in almost ten years, which I hope to continue into a fufilling career in software development.",
+        "linkedinUrl": "https://www.linkedin.com/in/keatonlaw/"
+      },
+      {
+        "name": "Michael Pennington",
+        "shortQuote": "Curiously enough, the only thing that went through the mind of the bowl of petunias as it fell was \"Oh no, not again\". ",
+        "photoUrl1": "https://lh3.googleusercontent.com/pw/AMWts8Cci6O61DIA3YoTJp1EaC-dQ-Wdu3gxAZ1F4dR7yXz-kVktAoTfo5WeMQGbr2hpjox45jmwtomHyYf3co_Dv8jhv0YfwAZt99XU3mYgUFvEkpM1LTKqmj43tjdRAqZiVinnPva8bFspFVhsDH0DY8Cc=w632-h843-s-no?authuser=0",
+        "githubUrl": "https://github.com/PennCreative",
+        "emailAddress": "mwpennington90@gmail.com",
+        "shortAboutMe": "I'm graphic designer that is transitioning into the field of software engineering. I enjoy anything that pushes me to use my imagination and creativity. I have too many hobbies and not enough at the same time.",
+        "linkedinUrl": "https://www.linkedin.com/in/michael-w-pennington/"
+      },
+      {
+        "name": "Kenneth Chittaphong",
+        "shortQuote": "\"You miss 100 percent of the shots you don't take - Wayne Gretzky\" - Michael Scott",
+        "photoUrl1": "https://i.imgur.com/Fb3oOef.png",
+        "githubUrl": "https://github.com/kennethchittaphong",
+        "emailAddress": "kennethchittaphong@gmail.com",
+        "shortAboutMe": "Started in finance, now I am trying to make it as a software engineer. Oh and I like basketball and cooking.",
+        "linkedinUrl": "https://www.linkedin.com/in/kennethchittaphong/"
+      },
+      {
+        "name": "Justin Ferwerda",
+        "shortQuote": "If at first you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe",
+        "photoUrl1": "https://live.staticflickr.com/65535/52682552561_bce585530b.jpg",
+        "githubUrl": "https://github.com/Justin-Ferwerda/",
+        "emailAddress": "justin.ferwerda@gmail.com",
+        "shortAboutMe": "\nI began my journey into software engineering in 2019 while looking for supplemental work on the road as a musician. I soon realized my road-honed skills in problem solving and team building would flourish in a technical environment. I look forward to working in a collaborative atmosphere centered around growth and continued learning.",
+        "linkedinUrl": "https://www.linkedin.com/in/justinferwerda/"
+      },
+      {
+        "name": "Jacob Martin",
+        "shortQuote": "\"The public sucks\" - George Carlin",
+        "photoUrl1": "https://avatars.githubusercontent.com/u/79988192?v=4",
+        "githubUrl": "https://github.com/Massacre-Saint",
+        "emailAddress": "jbm6b@mtmail.mtsu.edu",
+        "shortAboutMe": "Passionate about coffee and now about programming. ",
+        "linkedinUrl": "https://www.linkedin.com/in/massacresaint/"
+      },
+      {
+        "name": "Imad Ottallah",
+        "shortQuote": "“First, solve the problem. Then, write the code.” – John Johnson\n",
+        "photoUrl1": "https://media.licdn.com/dms/image/C5603AQHhkfziyLyNCA/profile-displayphoto-shrink_800_800/0/1658170114012?e=1681344000&v=beta&t=oUN34fYUnrnakRLysUBN56GSws6TcSqv-WDMFTmXVc0",
+        "githubUrl": "https://github.com/ImadOttallah",
+        "emailAddress": "imadotta@gmail.com",
+        "shortAboutMe": "I’m starting my journey as full-stack developer thanks to Nashville Software School. Being a full-stack developer allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.\n\nI love designing systems that are light and efficient. I'm really in love with REACT, but am eager to learn so much more. I'm an avid table top role player and have written and illustrated several books.",
+        "linkedinUrl": "https://www.linkedin.com/in/imad-ottallah/"
+      },
+      {
+        "name": "Patrick Burns",
+        "shortQuote": "We dreamt our sons and daughters a high wire, connecting the four corners of the earth. But the wire disappeared and left them standing on nothing but thin air. They're standing and they're not about to fall.",
+        "photoUrl1": "https://avatars.githubusercontent.com/u/30135792?v=4",
+        "githubUrl": "https://github.com/patrick24cr",
+        "emailAddress": "burns212@gmail.com",
+        "shortAboutMe": "I like to make music, extract teeth, and tweak CSS files excessively.",
+        "linkedinUrl": "https://www.linkedin.com/in/patrick-burns-35460824a/"
+      },
+      {
+        "name": "Shalane Proctor",
+        "shortQuote": "Life is either a daring adventure or nothing at all. -Helen Keller",
+        "photoUrl1": "https://media.licdn.com/dms/image/D4E03AQFZlmBcRZa84g/profile-displayphoto-shrink_800_800/0/1671577467410?e=1681948800&v=beta&t=2wzHGbueAUsmJhd3mLbbb7aqnvjFh6fEBxicmsWDobs",
+        "githubUrl": "https://github.com/shalane-proctor",
+        "emailAddress": "shalane088@gmail.com",
+        "shortAboutMe": "There is a reason the other paths I tried in life didn't work out, it's because I would find my here in engineering. Very proud of how far I've come, especially in less that a year I've dedicated myself to becoming a software engineer. Aside from my new career, I am an artist and gamer, which I find to be largely helpful in my development. I am a proud women in tech and I look forward to the future!",
+        "linkedinUrl": "https://www.linkedin.com/in/shalane-proctor/"
+      },
+      {
+        "name": "Adam Steel",
+        "shortQuote": "Through all of the islands and all of the highlands\nIf we couldn't laugh we would all go insane\n- Jimmy Buffett",
+        "photoUrl1": "https://media.licdn.com/dms/image/C4D03AQFSthj_2hpUUQ/profile-displayphoto-shrink_800_800/0/1626828104241?e=1681344000&v=beta&t=NOvlqujVq2EnTbHtVjIbPQiZmxLciNVrFf7bOhisFXM",
+        "githubUrl": "https://github.com/mcgrief",
+        "emailAddress": "asteel88@gmail.com",
+        "shortAboutMe": "Here for a good time, not a long time.",
+        "linkedinUrl": "https://www.linkedin.com/in/adam-steel-0b60a389/"
+      }
+    ]
