@@ -7,7 +7,7 @@ export default function Techs() {
   useEffect(() => {
     const importImages = async () => {
       // Import all images in the images directory
-      const imageContext = require.context('../public/images', false, /\.(png|jpe?g|svg)$/);
+      const imageContext = require.context('../public/images/techstack', false, /\.(png|jpe?g|svg)$/);
       const imageKeys = imageContext.keys();
       const imageImports = imageKeys.map((key) => imageContext(key));
 
