@@ -18,30 +18,24 @@ export default function NavBar() {
           <ul className="navbar-nav me-auto">
             <li className="nav-item">
               <Link passHref href="/">
-                <a className="nav-link">
-                  Home
-                </a>
+                <a className="nav-link">Home</a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link passHref href="#developers">
-                <a href="#developers" className="nav-link">
+              <Link passHref href="#cohort" scroll={false}>
+                <a className="nav-link">
                   Developers
                 </a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link passHref href="#Technologies">
-                <a className="nav-link">
-                  Technologies
-                </a>
+              <Link passHref href="#technologies" scroll={false}>
+                <a className="nav-link">Technologies</a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link passHref href="#Thanks">
-                <a className="nav-link">
-                  Thanks
-                </a>
+              <Link passHref href="#thanks" scroll={false}>
+                <a className="nav-link">Thanks</a>
               </Link>
             </li>
           </ul>

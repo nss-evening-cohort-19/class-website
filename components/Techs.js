@@ -18,7 +18,7 @@ export default function Techs() {
   }, []);
 
   return (
-    <div className="technologies">
+    <div id="technologies" className="technologies">
       {images.map((image) => (
         <div key={image.default.src}>
           <Image src={image.default.src} alt="tech-logo" width={60} height={50} objectFit="contain" />
