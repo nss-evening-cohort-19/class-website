@@ -18,7 +18,19 @@ a {
 }
 
 body {
-  background-color: #88effd;
+  background-color: #ffffff;
+}
+
+.technologies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px;
+}
+
+.cohort {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .logo {
