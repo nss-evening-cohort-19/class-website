@@ -32,3 +32,7 @@ body {
   display: flex;
   flex-wrap: wrap;
 }
+
+.logo {
+  height: 50px;
+}
