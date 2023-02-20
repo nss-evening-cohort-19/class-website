@@ -1,11 +1,12 @@
 @import 'bootstrap/dist/css/bootstrap.css';
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Oswald&display=swap');
+
 
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Arvo', serif, 'Oswald', sans-serif;
 }
 
 a {
@@ -21,18 +22,79 @@ body {
   background-color: #ffffff;
 }
 
+.nav-link, .navbar-brand {
+  font-family: 'Oswald', sans-serif;
+}
+
+.developers-title {
+  display: flex;
+  justify-content: center;
+  font-family: 'Oswald', serif;
+}
+
+.tech-stack {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tech-stack-title {
+  margin-bottom: 10px;
+  font-family: 'Oswald', serif;
+}
+
 .technologies {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   margin: 10px;
+  padding: 40px;
+  border: 1px solid rgb(198, 193, 193);
+  border-radius: 10px;
+}
+
+
+.card {
+  font-family: 'Arvo', serif;
+  margin: 10px;
+}
+
+.card-text {
+  font-size: small;
+}
+
+.card-title {
+  text-align: center;
+  font-family: 'Oswald', serif;
+}
+
+.student-links{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.card-icon {
+width: 30px;
+height: 30px;
+border-radius: 50%;
+margin: 10px;
 }
 
 .cohort {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .logo {
   height: 50px;
+  border-radius: 10%;
+}
+
+.gif-container {
+  margin: 10px
+}
+
+.gif {
+  border-radius: 10px;
 }

@@ -1,15 +1,24 @@
 /* eslint-disable import/no-extraneous-dependencies */
-import React from 'react';
+import React, { useState } from 'react';
 import PropTypes from 'prop-types';
-import { Card } from 'react-bootstrap';
+import { Card, Button, Modal } from 'react-bootstrap';
 import Link from 'next/link';
 import { BsLinkedin, BsGithub, BsGlobe2 } from 'react-icons/bs';
 import { MdOutlineEmail } from 'react-icons/md';
 
 function StudentCard({ student }) {
+  const [showModal, setShowModal] = useState(false);
+
+  const handleModalOpen = () => {
+    setShowModal(true);
+  };
+
+  const handleModalClose = () => {
+    setShowModal(false);
+  };
   return (
     <Card className="card" style={{ width: '18rem' }}>
-      <Card.Img src={student.photoUrl1} className="card-img-top" height="300px" style={{ objectFit: 'cover' }} alt={`${student.name}`} />
+      <Card.Img src={student.photoUrl1} className="card-img-top" height="350px" style={{ objectFit: 'cover' }} alt={`${student.name}`} />
       <Card.Body>
         <div className="card-content">
           <Card.Title className="card-title">{student.name}</Card.Title>
@@ -18,7 +27,10 @@ function StudentCard({ student }) {
             <br />
           </Card.Text>
         </div>
-        <Card.Footer>
+        <Button variant="outline" onClick={handleModalOpen} style={{ display: 'block', margin: '0 auto' }}>
+          VIEW MORE
+        </Button>
+        <div className="student-links">
           <Link href={student.linkedinUrl}>
             <a target="_blank" href={student.linkedinUrl} rel="noreferrer">
               <BsLinkedin className="card-icon" />
@@ -46,8 +58,14 @@ function StudentCard({ student }) {
               <MdOutlineEmail className="card-icon" />
             </a>
           </Link>
-        </Card.Footer>
+        </div>
       </Card.Body>
+      <Modal show={showModal} onHide={handleModalClose}>
+        <Modal.Header closeButton>
+          <Modal.Title>{student.name}</Modal.Title>
+        </Modal.Header>
+        <Modal.Body>{student.shortAboutMe}</Modal.Body>
+      </Modal>
     </Card>
   );
 }
@@ -61,6 +79,7 @@ StudentCard.propTypes = {
     personalWebsite: PropTypes.string,
     shortQuote: PropTypes.string,
     emailAddress: PropTypes.string,
+    shortAboutMe: PropTypes.string,
   }).isRequired,
 };
 
