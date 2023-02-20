@@ -18,12 +18,15 @@ export default function Techs() {
   }, []);
 
   return (
-    <div id="technologies" className="technologies">
-      {images.map((image) => (
-        <div key={image.default.src}>
-          <Image src={image.default.src} alt="tech-logo" width={60} height={50} objectFit="contain" />
-        </div>
-      ))}
+    <div className="tech-stack">
+      <h2 className="tech-stack-title">TECHNOLOGIES</h2>
+      <div id="technologies" className="technologies">
+        {images.map((image) => (
+          <div key={image.default.src}>
+            <Image src={image.default.src} alt="tech-logo" width={60} height={50} objectFit="contain" />
+          </div>
+        ))}
+      </div>
     </div>
   );
 }

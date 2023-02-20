@@ -4,7 +4,7 @@ import NavBar from '../components/NavBar';
 const ViewDirectorBasedOnUserAuthStatus = ({ component: Component, pageProps }) => (
   <>
     <NavBar />
-    <div className="container">
+    <div className="container" style={{ marginTop: '80px' }}>
       <Component {...pageProps} />
     </div>
   </>
